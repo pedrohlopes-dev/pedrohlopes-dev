@@ -1,16 +1,44 @@
-## Hi there 👋
+# Pedro H. Lopes
 
-<!--
-**pedrohlopes-dev/pedrohlopes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Systems Analysis and Development student passionate about Linux, digital games, gamification, and creative software projects.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Brazilian Systems Analysis and Development student currently focused on backend development and software engineering fundamentals.
+
+My interests revolve around:
+
+- Linux and open-source software
+- Backend development
+- Game development
+- Gamification systems
+- Interactive and educational software
+- Digital comics and storytelling
+
+I enjoy building projects that combine technology and creativity.
+
+## Technologies
+
+### Languages
+- C++
+- PHP
+- JavaScript
+- SQL
+
+### Tools
+- Git
+- Linux
+- MariaDB
+- Supabase
+
+## Current Goals
+
+- Improve software architecture skills
+- Build a strong portfolio of personal projects
+- Explore game development and interactive experiences
+- Publish my first independent comic
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/pedrohlopesdeoliveira](...)
+- GitHub: github.com/pedrohlopes-dev
