@@ -40,5 +40,5 @@ I enjoy building projects that combine technology and creativity.
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/pedrohlopesdeoliveira](...)
+- LinkedIn: www.linkedin.com/in/pedrohlopesdeoliveira
 - GitHub: github.com/pedrohlopes-dev
